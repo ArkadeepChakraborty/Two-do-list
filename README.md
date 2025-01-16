@@ -1,2 +1,3 @@
 # Two-do-list
-new repo
+Live website: https://twoo-doo-listtt.netlify.app/
+Skills: Html, Css, Javascript.
